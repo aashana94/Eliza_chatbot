@@ -20,9 +20,10 @@ This Eliza chatbot program acts as a psychotherapist that engages in conversatio
 
 Talk to me by typing in English. Enter quit when you are done.
 
+---
 Hello. I am a Psychotherapist. Whom do I have the pleasure of speaking with?
 
-Hello.I am Merin
+>Hello.I am Merin
 
 Hi  Merin. What brings you here?
 
@@ -97,13 +98,13 @@ Your bill will be sent to your mail.
 
 ### Algorithm :
 
-Step 1: Start
-Step 2: Extract the input string.
-Step 3: Check if input string matches equals to quit
-    Step 3.1: Then return
-Step 4: Else
-    Step 4.1: Extracting the input string that matches the regular expression
-    Step 4.2: Calling function pairs with argument as input
-    Step 4.3: Start the conversation
-Step 5: End
+* Step 1: Start
+* Step 2: Extract the input string.
+* Step 3: Check if input string matches equals to quit
+   * Step 3.1: Then return
+* Step 4: Else
+   * Step 4.1: Extracting the input string that matches the regular expression
+   * Step 4.2: Calling function pairs with argument as input
+   * Step 4.3: Start the conversation
+* Step 5: End
 
