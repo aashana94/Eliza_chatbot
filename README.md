@@ -1,4 +1,4 @@
-## Eliza_chatbot
+## Eliza chatbot
 
 Authors : Merin Joy and Sai Nikitha
 
