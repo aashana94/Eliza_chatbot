@@ -9,10 +9,10 @@ This Eliza chatbot program acts as a psychotherapist that engages in conversatio
 
 ### Instructions to run :
 
-..*Step 1: Run the following code in command line or ipython notebook.
-..*Step 2: Type in English and start the conversation by providing your Name.
-..*Step 3: Continue the conversation by replying to the pre-defined statements.
-..*Step 4: End the conversation by typing quit.
+* Step 1: Run the following code in command line or ipython notebook.
+* Step 2: Type in English and start the conversation by providing your Name.
+* Step 3: Continue the conversation by replying to the pre-defined statements.
+* Step 4: End the conversation by typing quit.
 
 
 ### Example Conversation :
