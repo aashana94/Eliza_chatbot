@@ -2,7 +2,7 @@
 
 Authors : Merin Joy and Sai Nikitha
 
-Date : 19th September 2018
+Date : September 19th 2018
 
 This Eliza chatbot program acts as a psychotherapist that engages in conversation with the user. By making use of NLTK and regular expressions.
 
@@ -19,43 +19,79 @@ This Eliza chatbot program acts as a psychotherapist that engages in conversatio
 
 
 Talk to me by typing in English. Enter quit when you are done.
---------------------------------------------------------------
+
 Hello. I am a Psychotherapist. Whom do I have the pleasure of speaking with?
+
 Hello.I am Merin
+
 Hi  Merin. What brings you here?
+
 >I need assistance
+
  Merin How important is assistance to you?
+ 
 >It is very important to me
+
 Please tell me more
+
 >I feel depressed
+
 Have you discussed your issues with someone?
+
 >Yes
+
 Why do you say yes?
+
 >I have discussed it with my parents
+
 Good family relations are extremely important.
+
 >Are you a machine?
+
 I might be a machine?, what do you think?
+
 >i think you are a bot
+
 When did you get that thought?
+
 >While talking to you
+
 And how does it sound to you?
+
 >Its weird
+
 Tell me about your closed ones?
+
 >I am close to my family and friends
+
 Are you happy with them?
+
 >Yes
+
 Please tell me more
+
 >My parents are good individuals
+
 How do you feel about them?
+
 >Amazing!
+
 Why do you say amazing?
+
 >Because they are!
+
 Are you sure?
+
 >Yes
+
 Please tell me more
+
 >Okay its time to go! bye!
+
 Sounds good
+
 >quit
+
 Your bill will be sent to your mail.
 
 
